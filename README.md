@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kariuki-Wachira
 - 👀 I’m interested in Machine Learning, Data science
-- 🌱 I’m currently learning Backend development using nestjs and mongodb and some USSD
+- 🌱 I’m currently working on Backend development exploring some new frameworks
 - 📫 How to reach me, Email:joelwachirah@gmail.com
                       Mobile: +254724290628 / +254111613803
                       LinkedIn: https://www.linkedin.com/in/kariuki-wachira-a30a87205/
